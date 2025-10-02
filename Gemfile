@@ -55,6 +55,7 @@ group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem "web-console"
   gem "erb_lint", require: false
+  gem 'pry'
 end
 
 group :test do
